@@ -55,30 +55,35 @@
     {
       "id": 1,
       "name": "กระเพรา",
+      "price": "49 บาท",
       "location": "Thailand",
       "imageUrl": "https://www.khaosod.co.th/wpapp/uploads/2023/09/%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94-%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2-%E0%B8%84%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B8%9B%E0%B9%8C%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A-1-%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B2%E0%B8%99%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%94%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%83%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81-02.jpg"
     },
     {
       "id": 2,
       "name": "มัสมั่น",
+      "price": "69 บาท",
       "location": "Thailand",
       "imageUrl": "https://s359.kapook.com/pagebuilder/350c53c1-2dd7-4164-9f40-b1c695e43c7d.jpg"
     },
     {                           
       "id": 3,
       "name": "พะเเนง",
+      "price": "59 บาท",
       "location": "Thailand",
       "imageUrl": "https://img.kapook.com/u/pirawan/Cooking1/panang.jpg"
     },
     {
       "id": 4,
       "name": "ต้มข่าไก่",
+      "price": "59 บาท",
       "location": "Thailand",
       "imageUrl": "https://static.thairath.co.th/media/Dtbezn3nNUxytg04ajZ4QafH7spkIXGCE24MV6jOz6sVWB.webp"
     },
     {
       "id": 5,
       "name": "ข้าวซอย",
+      "price": "49 บาท",
       "location": "Thailand",
       "imageUrl": "https://static.thairath.co.th/media/Dtbezn3nNUxytg04ajZ4QafH7spkIXGCOpLM5xpo9QPPM4.webp"
     }
